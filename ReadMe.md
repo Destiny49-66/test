@@ -13,7 +13,7 @@ yarn install or npm install --force
 ### Run project
 
 ```bash
-yarn start or npm start
+yarn run dev or npm run dev
 ```
 </div>
 
