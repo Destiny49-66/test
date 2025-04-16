@@ -64,7 +64,6 @@
     "react-redux": "^7.2.6",
     "react-router": "^6.0.0-beta.0",
     "react-router-dom": "^6.0.0-beta.0",
-    
     "react-scroll": "^1.8.3",
     "react-slick": "^0.28.1",
     "react-swipeable-views": "^0.14.0",
